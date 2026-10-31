@@ -81,15 +81,7 @@ A project focused on creating a digital space for discovering, preserving and sh
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithlilme&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlilme&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -103,13 +95,7 @@ A project focused on creating a digital space for discovering, preserving and sh
 
 ---
 
-### 📈 Contribution Activity
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithlilme&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
 
 ---
 
