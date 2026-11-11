@@ -68,7 +68,6 @@ Outside of coding, I enjoy reading, playing chess, exploring creative ideas, and
 <div align="center">
 
 <a href="https://github.com/codewithlilme/Community-story-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithlilme&repo=Community-story-hub&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
