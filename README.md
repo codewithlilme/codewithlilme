@@ -9,11 +9,11 @@
 
 *Building, learning, experimenting, and turning ideas into something meaningful.*
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lilme001.bsky.social)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murithililian509@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-murithi-5063b336a)
 
-**WhatsApp:** `@_.msolovessmocha`
+
 
 </div>
 
